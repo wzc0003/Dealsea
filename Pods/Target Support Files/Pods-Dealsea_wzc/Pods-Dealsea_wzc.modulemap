@@ -1,0 +1,6 @@
+framework module Pods_Dealsea_wzc {
+  umbrella header "Pods-Dealsea_wzc-umbrella.h"
+
+  export *
+  module * { export * }
+}
